@@ -1,12 +1,12 @@
 {
-  "name": "bitrix-expert/monolog-adapter",
+  "name": "ozyab/monolog-adapter",
   "description": "Monolog adapter for Bitrix CMS",
   "keywords": ["bitrix", "monolog", "logger", "log", "psr-3"],
   "type": "library",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/bitrix-expert/monolog-adapter/issues",
-    "source": "https://github.com/bitrix-expert/monolog-adapter/"
+    "issues": "https://github.com/ozyab/monolog-adapter/issues",
+    "source": "https://github.com/ozyab/monolog-adapter/"
   },
   "authors": [
     {
